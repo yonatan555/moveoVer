@@ -1,8 +1,8 @@
 # moveo
 # Getting Started with Create React App
 
-# Deployed using heruko
-# implemented using react.js framework and firebase database
+*** Deployed using heruko ***
+*** implemented using react.js framework and firebase database ***
 
 ## Available Scripts
 
