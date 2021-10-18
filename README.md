@@ -16,7 +16,8 @@ In the project directory, run :
 for login
 Open (http://localhost:3000/login) to view it in the browser.
 
-https://moveappdep.herokuapp.com/login
+
+For Heruko Deployed	https://moveappdep.herokuapp.com/login
 
 
 ### Login use :
@@ -40,6 +41,7 @@ pick one of the available Emails && passwords:
 
 ### Logged mode :
 Got information about the logged user
+
 and have the option to Edit the profile	
 
 ### Edit mode : 
