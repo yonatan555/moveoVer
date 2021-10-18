@@ -1,6 +1,9 @@
 # moveo
 # Getting Started with Create React App
 
+# Deployed using heruko
+# implemented using react.js framework and firebase database
+
 ## Available Scripts
 
 In the project directory, run : 
@@ -12,6 +15,7 @@ In the project directory, run :
 for login
 Open (http://localhost:3000/login) to view it in the browser.
 
+https://moveappdep.herokuapp.com/login
 
 
 ### Login use :
@@ -44,5 +48,5 @@ Edit any field U wants to change.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 For Testing my Task I allowed to create a new account with email and password as u wish
 
-http://localhost:3000/signup
-# moveoVer
+https://moveappdep.herokuapp.com/signup
+
